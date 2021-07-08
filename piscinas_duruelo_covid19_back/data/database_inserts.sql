@@ -1,3 +1,3 @@
-INSERT INTO USER VALUES ('Taquilla','taq_2020&');
-INSERT INTO USER VALUES ('Piscinas','%sos_2020');
+INSERT INTO USER VALUES ('Taquilla','taq_21%');
+INSERT INTO USER VALUES ('Piscinas','sos_21#');
 INSERT INTO USER VALUES ('Admin','50892142L');
